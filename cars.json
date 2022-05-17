@@ -1,0 +1,30 @@
+[
+  {
+    "url_image": "https://www.largus.fr/images/images/fiesta-avg.jpg?width=612&quality=80",
+    "model": "Ford fiesta",
+    "description": "Ford supprime deux finitions, une motorisation et plusieurs options du catalogue de sa Fiesta, mais aussi la carrosserie trois-portes de sa citadine. Les prix du modèle augmentent par la même occasion. La gamme demeure riche, correctement équipée, et peu touchée par le malus sur le CO2.",
+    "place": 5,
+    "tarif": 40
+  },
+  {
+    "url_image": "https://www.ouestfrance-auto.com/p/annonces/17445102_1_174451025fac231107bb7235900425.jpg",
+    "model": "Clio 4",
+    "description": "La Renault Clio IV (nom de code X98) est une citadine polyvalente du constructeur automobile français Renault produite à partir de 2012. Il s'agit de la quatrième génération de Clio après la Clio I en 1990, la Clio II en 1998 et Clio III en 2006. Avec plus de 100 000 exemplaires par an, elle est la voiture la plus vendue en France. ",
+    "place": 5,
+    "tarif": 50
+  },
+  {
+    "url_image": "https://sf2.auto-moto.com/wp-content/uploads/sites/9/2018/11/ok1-750x410.jpg",
+    "model": "Audi A1 Sport",
+    "description": "Agile et sûre, l’Audi A1 Sportback se dote d’un châssis qui fait la part belle au dynamisme. En complément, une suspension Sport est disponible en option. Le système de freinage procure une sensation de pédale ferme qui permet de doser précisément le freinage",
+    "place": 5,
+    "tarif": 70
+  },
+  {
+    "url_image": "https://journalauto.com/wp-content/uploads/2021/09/Qashqai--1024x682.jpg",
+    "model": "Nissan Qashqai",
+    "description": "Le Nouveau Nissan Qashqai vous transporte dans un intérieur spacieux et élégant. Faites votre choix parmi une large sélection de couleurs monochromes ou bi-ton accentuant sa ligne de toit flottante. Puis créez votre style avec les jantes du Nouveau Nissan Qashqai.",
+    "place": 5,
+    "tarif": 90
+  }
+]
